@@ -1,6 +1,6 @@
 - (👉ﾟヮﾟ)👉   Hi, I’m @valooost
 - (〃￣︶￣)人(￣︶￣〃)   I’m interested in python
-- ○( ＾皿＾)っ Hehehe…   I’m currently learning c++
+- ○( ＾皿＾)っ Hehehe…   I’m currently learning c+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - ƪ(˘⌣˘)ʃ   I’m looking to collaborate on python
 
 <!---
