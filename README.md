@@ -2,8 +2,8 @@
 - (〃￣︶￣)人(￣︶￣〃)   I’m interested in python
 - ○( ＾皿＾)っI’m currently learning C++ and C#
 - ƪ(˘⌣˘)ʃ   I’m looking to collaborate on python
-
-  
+- ...
+- 
 - (⌐■_■) I realised I've written this since years and nothing about this is true
 - I know Python and how to program at the Arduino IDE (C, C# and C++)
   
