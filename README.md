@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valooost&show_icons=true&theme=dark)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valooost&theme=dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valooost&show_icons=true&theme=dark)
 
 This is made by my friend, Onako2, check out his project:
 
