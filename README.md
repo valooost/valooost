@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valooost&show_icons=true&theme=dark) ![Onako2's Stats](https://github-readme-stats.vercel.app/api?username=Onako2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valooost&show_icons=true&theme=dark) ![Onako2's Stats](https://github-readme-stats.vercel.app/api?username=valooost&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![Onako2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Onako2&theme=vue-dark&hide_border=true)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valooost&show_icons=true&theme=dark)
