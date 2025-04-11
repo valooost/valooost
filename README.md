@@ -1,6 +1,5 @@
 <div style="background: linear-gradient(to right, #d16ba5, #86a8e7, #5ffbf1); padding: 10px; border-radius: 10px;">
-  <strong>🧠 Über mich</strong><br>
-  Physikfan. Mag das Universum. Keine Milch.
+  <strong></strong><br>
 </div>
 
 You can add me for Consulting Translation to Spanish and German
