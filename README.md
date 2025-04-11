@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Beginner-Vibe-Coder?-No-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Beginner-purple?style=for-the-badge">
 </h3>
 
 You can add me for Consulting Translation to Spanish and German
