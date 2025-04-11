@@ -1,6 +1,6 @@
-<div style="background: linear-gradient(to right, #d16ba5, #86a8e7, #5ffbf1); padding: 10px; border-radius: 10px;">
-  <strong>Hi!</strong><br>
-</div>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Physik🧠-cool-purple?style=for-the-badge">
+</h3>
 
 You can add me for Consulting Translation to Spanish and German
 
